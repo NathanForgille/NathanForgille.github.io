@@ -1,0 +1,32 @@
+.greeting 
+{font-weight: bolder; 
+font-family: 'Franklin Gothic Medium';
+font-size: xx-large;
+text-align: center;
+}
+
+.name {
+
+    font-family: 'Franklin Gothic Medium';
+    text-align: center;
+    font-style: italic;
+    color: skyblue;
+}
+
+.details {
+
+    font-family: 'Franklin Gothic Medium';
+}
+
+h1 {
+
+color:dodgerblue;
+text-align: center;
+
+}
+
+p {
+color:darkblue;
+text-align: center;
+
+}
